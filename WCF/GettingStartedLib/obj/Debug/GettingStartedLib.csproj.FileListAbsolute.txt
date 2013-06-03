@@ -1,0 +1,10 @@
+c:\users\riotgeorg\documents\visual studio 2012\Projects\GettingStarted\GettingStartedLib\bin\GettingStartedLib.dll
+c:\users\riotgeorg\documents\visual studio 2012\Projects\GettingStarted\GettingStartedLib\bin\GettingStartedLib.pdb
+c:\users\riotgeorg\documents\visual studio 2012\Projects\GettingStarted\GettingStartedLib\obj\Debug\GettingStartedLib.csprojResolveAssemblyReference.cache
+c:\users\riotgeorg\documents\visual studio 2012\Projects\GettingStarted\GettingStartedLib\obj\Debug\GettingStartedLib.dll
+c:\users\riotgeorg\documents\visual studio 2012\Projects\GettingStarted\GettingStartedLib\obj\Debug\GettingStartedLib.pdb
+C:\Users\RioTGeorG\Documents\visual studio 2012\Projects\WCFGettingStarted\GettingStartedLib\bin\GettingStartedLib.dll
+C:\Users\RioTGeorG\Documents\visual studio 2012\Projects\WCFGettingStarted\GettingStartedLib\bin\GettingStartedLib.pdb
+C:\Users\RioTGeorG\Documents\visual studio 2012\Projects\WCFGettingStarted\GettingStartedLib\obj\Debug\GettingStartedLib.dll
+C:\Users\RioTGeorG\Documents\visual studio 2012\Projects\WCFGettingStarted\GettingStartedLib\obj\Debug\GettingStartedLib.pdb
+C:\Users\RioTGeorG\Documents\visual studio 2012\Projects\WCFGettingStarted\GettingStartedLib\obj\Debug\GettingStartedLib.csprojResolveAssemblyReference.cache
