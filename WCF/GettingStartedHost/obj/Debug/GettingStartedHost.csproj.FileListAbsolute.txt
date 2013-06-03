@@ -15,3 +15,6 @@ C:\Users\RioTGeorG\Documents\GitHub\WCFGettingStartedv1.0\WCF\GettingStartedHost
 C:\Users\RioTGeorG\Documents\GitHub\WCFGettingStartedv1.0\WCF\GettingStartedHost\bin\Debug\GettingStartedLib.dll
 C:\Users\RioTGeorG\Documents\GitHub\WCFGettingStartedv1.0\WCF\GettingStartedHost\bin\Debug\GettingStartedLib.pdb
 C:\Users\RioTGeorG\Documents\GitHub\WCFGettingStartedv1.0\WCF\GettingStartedHost\obj\Debug\GettingStartedHost.csprojResolveAssemblyReference.cache
+C:\Users\RioTGeorG\Documents\GitHub\Test\WCF\GettingStartedHost\bin\Debug\GettingStartedHost.exe.config
+C:\Users\RioTGeorG\Documents\GitHub\Test\WCF\GettingStartedHost\obj\Debug\GettingStartedHost.exe
+C:\Users\RioTGeorG\Documents\GitHub\Test\WCF\GettingStartedHost\obj\Debug\GettingStartedHost.pdb
